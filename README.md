@@ -25,6 +25,10 @@ OR
     $ rails generate rails_coredata:model path/to/data.xcdatamodeld
     $ rails generate rails_coredata:controller path/to/data.xcdatamodeld
 
+### Overwrite template files
+
+    $ rake rails_coredata:templates:copy
+
 ## Contributing
 
 1. Fork it
