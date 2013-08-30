@@ -1,0 +1,8 @@
+Description:
+    Run rails controller generator for each coredata model which is from xcdatamodeld file
+
+Example:
+    rails generate rails_coredata:controller path/to/data.xcdatamodeld
+
+    This will execute:
+        rails generate controller for each coredata model
