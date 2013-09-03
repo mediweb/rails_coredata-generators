@@ -6,6 +6,7 @@ module RailsCoredata
 
       invoke 'rails_coredata:model'
       invoke 'rails_coredata:controller'
+      invoke 'rails_coredata:serializer'
 
     end
   end

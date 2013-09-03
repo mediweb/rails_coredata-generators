@@ -24,6 +24,7 @@ OR
 
     $ rails generate rails_coredata:model path/to/data.xcdatamodeld
     $ rails generate rails_coredata:controller path/to/data.xcdatamodeld
+    $ rails generate rails_coredata:serializer path/to/data.xcdatamodeld
 
 ### Overwrite template files
 

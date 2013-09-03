@@ -1,0 +1,8 @@
+Description:
+    Run rails serializer generator for each coredata model which is from xcdatamodeld file
+
+Example:
+    rails generate rails_coredata:serializer path/to/data.xcdatamodeld
+
+    This will execute:
+        rails generate serializer for each coredata model

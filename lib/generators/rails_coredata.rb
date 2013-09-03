@@ -1,3 +1,4 @@
+require 'active_model_serializers'
 require 'rails/generators/base'
 require 'rails/generators/named_base'
 require 'core_data'
